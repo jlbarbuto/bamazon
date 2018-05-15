@@ -10,8 +10,8 @@
 
 * The app will use a connected database to check for the stock quantity of the product. If there is enough, the transaction will go through and user will be notified of their total cost. If there is not enough in stock, the user will be notified as well and taken back to the inital prompt.
 
-![Customer Purchase](images/cust_purch.jpg)
-![Customer Sorry](images/cust_sorry.jpg)
+![Customer Purchase](/images/cust_purch.jpg)
+![Customer Sorry](/images/cust_sorry.jpg)
 
 # bamazonManager.js
 
